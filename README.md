@@ -1,5 +1,3 @@
-# Data Analysis Projects
-
 ## Welcome to my Data Analyst Portfolio!
 
 As a data analyst with extensive experience, I excel in using various tools and technologies to gather, organize, and analyze data to support business decisions. My proficiency spans across Python, SQL, Excel, Power BI, and Tableau. I possess a strong grasp of data analytics techniques, including dashboard creation, report generation, data mining, data merging, statistical analysis, and critical thinking.
