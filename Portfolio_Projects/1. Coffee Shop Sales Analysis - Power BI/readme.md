@@ -9,11 +9,11 @@
 
 ## **Objective:**
 ### The objective of this analysis is to evaluate the coffee shop's performance through a detailed examination of sales data. The analysis aims to:
-### Track total sales, orders, and quantity sold monthly.
-### Visualize sales trends by day, week, and hour.
-### Identify top-selling products and key product categories.
-### Understand the impact of store location, weekday/weekend patterns, and exceptional sales days.
-### Provide actionable insights by comparing performance against historical data and averages.
+### * Track total sales, orders, and quantity sold monthly.
+### * Visualize sales trends by day, week, and hour.
+### * Identify top-selling products and key product categories.
+### * Understand the impact of store location, weekday/weekend patterns, and exceptional sales days.
+### * Provide actionable insights by comparing performance against historical data and averages.
 
 ## **Info:**
 ### **_The CSV file included the following columns:_**
