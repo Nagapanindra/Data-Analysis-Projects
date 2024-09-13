@@ -42,4 +42,4 @@ The coffee shop owner seeks a comprehensive analysis of sales performance over t
 
 * This comprehensive analysis has provided valuable insights into the coffee shop’s sales performance, revealing trends and patterns across various dimensions. By examining total sales, orders, and quantities, and visualizing data through dynamic tools such as heat maps and line charts, we have gained a clearer understanding of the factors driving the business's success.
 
-* Thank you for the opportunity to conduct this analysis. If you have any further questions or need additional insights, please feel free to reach out. Your feedback is appreciated, and I look forward to supporting you with future data-driven projects.
+#####  Thank you for your attention to this analysis. Should you have any further questions or require additional information, please feel free to reach out to me at nagapanindra1276@gmail.com I look forward to assisting you further.
