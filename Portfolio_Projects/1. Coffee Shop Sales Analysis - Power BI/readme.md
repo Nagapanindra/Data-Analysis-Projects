@@ -1,6 +1,6 @@
-# **Project Overview**
+# Project Overview
 
-## **Coffee Shop Sales Analysis**
+## Coffee Shop Sales Analysis
 
 ### A hypothetical coffee shop owner wanted to assess the performance of their business and requested my assistance as a data analyst to analyze their sales data. The owner provided 6 months' worth of sales data in a CSV file for the analysis.
 
@@ -17,17 +17,17 @@
 
 ## **Info:**
 ### **_The CSV file included the following columns:_**
- 1.transaction_id – A unique identifier for each transaction.
- 2.transaction_date – The date the transaction occurred.
- 3.transaction_time – The time the transaction took place.
- 4.transaction_qty – The quantity of items purchased in the transaction.
- 5.store_id – A unique identifier for each store where the transaction occurred.
- 6.store_location – The location of the store where the sale took place.
- 7.product_id – A unique identifier for each product sold.
- 8.unit_price – The price per unit of the product.
- 9.product_category – The category to which the product belongs.
- 10.product_type – The type of product sold.
- 11.product_detail – The specific name or details of the product.
+1. transaction_id – A unique identifier for each transaction.
+2. transaction_date – The date the transaction occurred.
+3. transaction_time – The time the transaction took place.
+4. transaction_qty – The quantity of items purchased in the transaction.
+5. store_id – A unique identifier for each store where the transaction occurred.
+6. store_location – The location of the store where the sale took place.
+7. product_id – A unique identifier for each product sold.
+8. unit_price – The price per unit of the product.
+9. product_category – The category to which the product belongs.
+10. product_type – The type of product sold.
+11. product_detail – The specific name or details of the product.
 
 ## **Analysis**
 ### As a Data Analyst, I began by examining the dataset (CSV file) to detect any null values, duplicates, or errors. After this initial assessment, I imported the data into Power BI using the Get Data gateway. Subsequently, I loaded the data into Power Query for minor adjustments. Given that the dataset was a single table without any related tables, there was no need for additional data modeling or relationship establishment.
